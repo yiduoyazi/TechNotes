@@ -1,0 +1,9 @@
+{
+    "notes_dir": "docs",
+    "theme": "dark",
+    "auto_save": true,
+    "language": "zh-CN",
+    "font_size": 14,
+    "line_numbers": true,
+    "word_wrap": true
+}
